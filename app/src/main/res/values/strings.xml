@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="welcomme">Selamat Datang</string>
+    <string name="resTrue">Anjai benar</string>
+    <string name="resFalse">Kapok salah</string>
+    <string name="q1">Jakarta adalah ibu kota</string>
+    <string name="q2">Surabaya adalah kota pahlawan</string>
+    <string name="q3">kediri adalah kota pendidikan</string>
+    <string name="q4">Semarang ada di pulau jawa</string>
+</resources>
